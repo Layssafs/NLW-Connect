@@ -1,6 +1,5 @@
-<p align="center">
-  ![image](https://github.com/user-attachments/assets/845757e0-d676-4c70-8967-8a430c5021f8)
-</p>
+![image](https://github.com/user-attachments/assets/6e24d1ed-0501-4309-95ee-e4a8eb37397c)
+
 
 ## 💻 Projeto
 Esse é um projeto web responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
